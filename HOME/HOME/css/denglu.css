@@ -1,0 +1,153 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+		/*设置总长宽度，属性*/
+.warp{
+	width: 1348px;
+	height: 974px;
+	margin: 0 auto;
+	/*background: #15848F;*/
+	text-align: center;
+
+}
+
+		/*百度logo图片*/
+.header{
+	/*width: 250px;
+	height: 98px;*/
+	float: left;
+	/*background: #19DE79;*/
+}
+.tupian_1{
+	margin-right: -670px;
+}
+
+
+		/*小熊图片*/
+.bodyer_1{
+	float: left;
+	margin-top: 120px;
+	margin-left: 172px;
+}
+
+		/*账号密码输入外框*/
+.bodyer_2{
+	width: 354px;
+	height: 450px;
+	float: right;
+	margin-top: 120px;
+	margin-right: 200px;
+	border: 1px solid #F2E6E6;
+	/*background: #11C28E;*/
+}
+		/*账号密码输入内框*/
+.bodyer_2_1{
+	width: 298px;
+	height: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background: #22665A;*/
+}
+		/*百度logo小图标*/
+.tupian_2{
+	width: 150px;
+	height: 60px;
+	float: left;
+	margin-top: 22px;
+}
+
+		/*用户名密码登陆框*/
+.bodyer_2_2{
+	width: 180px;
+	height: 60px;
+	float: right;
+	margin-top: -60px;
+	/*background: #0DCDBF;*/
+}
+
+		/*用户名密码登陆*/
+#p_1{
+	font-size: 16px;
+	/*font-weight: 700;*/
+	margin-right: 28px;
+	margin-top: 20px;
+	margin-bottom:20px;
+
+}
+		/*账号*/
+.input_1{
+	margin-top: 12px;
+	border: 1px solid #DED3D3;
+}
+		/*密码*/
+.input_2{
+	margin-top: 12px;
+	border: 1px solid #DED3D3;
+}
+		/*下次自动登陆复选框*/
+.fuxuan_1{
+	float: left;
+	margin-top: 20px;
+}	
+		/*下次自动登陆文字*/
+.p_2{
+	margin-top: 15px;
+	margin-right: 200px;
+}
+		/*登陆按钮*/
+.denglu_1{
+	margin-top: 12px;
+	background-color: #2e82ff;
+	border: none;
+}
+		/*登录按钮文字*/
+.p_3{
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 700;
+}
+		/*忘记密码*/
+
+.wangji_1{
+	width: 200px;
+	height: 20px;
+	margin-top: 5px;
+	/*background-color: #BF2929;*/
+}
+.a_1{
+	margin-right:128px;
+}
+
+	/*扫码登陆*/
+.bodyer_3{
+	width: 353px;
+	height: 60px;
+	float: right;
+	margin-top: -61px;
+	margin-right: 201px;
+	background: #E1F2F6;
+}
+.tobi{
+	float: left;
+	margin-left: 22px;
+	margin-top: 18px;
+}
+
+.footer_1{
+	float: right;
+	margin-top: 250px;
+
+}
+
+.footer_2{
+	 position: absolute;
+	 bottom: 0;
+	 left: 50%;
+	 margin: 0;
+	 height: 40px;
+	 width: 120px;
+	 margin-left: -60px;
+	 text-align: center;
+	 color:#7a77c8;
+}
